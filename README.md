@@ -1,4 +1,4 @@
-## Data and Code Repository for: <br/> From Prompts to Pipelines: Can LLMs or Agents Write Reliable Code for Ophthalmic Disease Prediction?
+## Data and Code Repository for: <br/> Performance and Reliability of LLMs and AI Agents for Deep Learning Code Generation in Ophthalmology 
 
 This repository contains data splits, LLM- and AI agent-generated code, and classifier results for the aforementioned paper.   
 Please contact thad.lo.seri@gmail.com if you have any questions.
